@@ -294,7 +294,7 @@ ann_forecasting_steps = 1
 # VMD PARAMETERS
 alpha = 2000       
 tau = args.tau 
-K = 3
+K = 4
 
 omega0 = None
 DC = 0           
