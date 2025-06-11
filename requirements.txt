@@ -1,0 +1,5 @@
+python==3.12.11
+tensorflow==2.18.0
+matplotlib==3.10.3
+scikit-learn==1.7.0
+pydot==4.0.0
