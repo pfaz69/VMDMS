@@ -9,4 +9,14 @@ matplotlib 3.10.3
 scikit-learn 1.7.0
 pydot-4.0.0
 
+To create a conda environment:
+conda create --name my_env --file requirements.txt
+
+The command: 'pip install -r requirements.txt' should work with any Python virtual environment manager (venv, virtualenv, pipenv, Poetry) as well as Conda, but the environment should be created first.
+
+Program tested with Ubuntu 20.04.
+
+
+
+
 
