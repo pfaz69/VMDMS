@@ -1,5 +1,5 @@
 # VMDMS
-This example illustrates a toy application of VMDMS, detailed in the paper by Fazzini, La Tona, Diez, Di Piazza.
+This example illustrates a toy application of VMDMS, detailed in the paper "Enhanced forecasting of shipboard electrical power demand using multivariate input and variational mode decomposition with mode selection" by Fazzini, La Tona, Diez, Di Piazza.
 To run it, simply type "python main.py".
 
 packages:
@@ -16,7 +16,7 @@ The command: 'pip install -r requirements.txt' should work with any Python virtu
 
 Program tested with Ubuntu 20.04.
 
-If you use this code for your research, please consider citing the linked paper "Enhanced forecasting of shipboard electrical power demand using multivariate input and variational mode decomposition with mode selection". Here's a BibTeX reference:
+If you use this code for your research, please consider citing the linked paper. Here's a BibTeX reference:
 
 ```bibtex
 @article{fazzini_2025, 
