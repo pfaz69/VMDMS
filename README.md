@@ -31,6 +31,9 @@ If you use this code for your research, please consider citing the linked paper.
 }
 ```
 
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+
 
 
 
